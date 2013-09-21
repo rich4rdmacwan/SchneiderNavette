@@ -1,0 +1,21 @@
+
+--------- SVG & C++
+
+- SVG rendering engine (simple-svg) and FileMonitor project (using this library for rendering)
+- https://code.google.com/p/simple-svg/
+
+- Structure of SVG document
+- http://www.w3.org/TR/SVG/struct.html
+
+- Basic SVG examples with shown rendering results
+- http://apike.ca/prog_svg_basic.html
+- http://www.w3schools.com/svg/svg_example.asp
+
+--------- MAP DATA
+
+- OpenStreetMaps data exporting service:
+- http://www.openstreetmap.org/#map=14/46.7989/4.4313
+
+- .OSM tags explanations (structure of the exported file)
+- http://wiki.openstreetmap.org/wiki/Data_Primitives
+- http://wiki.openstreetmap.org/wiki/Export
